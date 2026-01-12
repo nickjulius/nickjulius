@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center;">
+<div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/nickjulius/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/FlorenceGayle/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://raw.githubusercontent.com/nickjulius/nickjulius/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-
-<h1 style="text-align:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1000&color=4493F8&width=500&lines=Hi+There!+👋;I'm+Nick+Julius!" />
+<img src="https://github.com/{nickjulius}/{nickjulius}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Florence!;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
